@@ -16,6 +16,6 @@ while True:
       print(f"{first_name} {last_name} has made the Dean's List!")
 
   if last_name.upper() == "ZZZ":
-    print("Program ended."
+    print("Program ended.")
 
   print()
